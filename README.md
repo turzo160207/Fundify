@@ -1,16 +1,17 @@
-# appstick
+This **Flutter** project contains - 
 
-A new Flutter project.
+ - splash screen
+ - onboarding screen with pageview builder, page indicator and sliding pages.
+ - pin code screen
+ - bottom navigation bar to navigate between homepage and other pages
+ - **getx** library for state and route management
+ - model, view, controller structure
+ - an apk file of the application
+ 
+ Here's a google drive link to the screenshots of all the pages created-
 
-## Getting Started
+https://drive.google.com/drive/folders/1PAlPnvoBc7-0cyi2gpuHXrUpyOY0Oi8E?usp=sharing
 
-This project is a starting point for a Flutter application.
+Here's google drive link to the apk file-
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://drive.google.com/file/d/1epnP8noishJhdTWeoum1U-thol_6_42G/view?usp=sharing
